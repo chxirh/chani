@@ -1,2 +1,4 @@
 # chani
-Chani learning HTML and shit
+PolyEng | Polynomial Engineering
+
+Lead Engineer
